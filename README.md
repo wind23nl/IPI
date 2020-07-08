@@ -10,5 +10,3 @@ I do not take any responsibility for your actions. Please use this at your own r
 [![Run on Repl.it](https://repl.it/badge/github/wind2312/IPI.py)](https://repl.it/github/wind2312/IPI.py)
 
 [![GitHub issues](https://img.shields.io/github/issues/wind2312/IPI)](https://github.com/wind2312/IPI/issues)
-
-[![Me (wind2312)](https://githubbadge.appspot.com/wind2312)](https://githubbadge.appspot.com/wind2312)
