@@ -1,4 +1,9 @@
-time
 ipinfo
 phonenumbers
 colorama
+pprint
+requests
+tqdm
+bs4
+pyperclip
+whois
